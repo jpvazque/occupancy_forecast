@@ -127,3 +127,22 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# datasets
+*.csv
+*.xlsx
+
+# data folder
+/data
+
+# serialized files folders
+/serialized_files
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/ 
+
+#serialized files
+*.pkl
+
+# personal python files
+fbprophet_model.py
